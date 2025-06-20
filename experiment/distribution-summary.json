@@ -1,0 +1,18 @@
+{
+  "start_date": "2025-06-20",
+  "end_date": "2026-06-19",
+  "total_commits": 863,
+  "active_days": 220,
+  "zero_days": 145,
+  "pre_january_commits": 130,
+  "internship_commits": 733,
+  "internship_share": 0.849,
+  "weekend_active_days": 34,
+  "max_streak": 14,
+  "levels": {
+    "3-4": 97,
+    "8-12": 18,
+    "5-7": 29,
+    "1-2": 76
+  }
+}
